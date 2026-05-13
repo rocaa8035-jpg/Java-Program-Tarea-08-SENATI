@@ -21,16 +21,16 @@ El proyecto está organizado en las siguientes carpetas principales:
 ------------------------------
 ## 🚀 Casos de Uso y Configuración
 Identifica el sistema que deseas ejecutar y sigue las combinaciones correspondientes:
-## Caso 1: Creación de Base de datos "CLICEXPRESS"
+## PARTE I: Creación de Base de datos "CLICEXPRESS"
 
 * Base de Datos: Archivo clicexpress_db.sql (dentro de Bases-De-Datos/).
 
-## Caso 2: Primer Sistema (Cliente CRUD)
+## PARTE II: Primer Sistema (Cliente CRUD)
 
 * Código Java: Carpeta EntregableClienteCRUD.
 * Base de Datos: Archivo BD_script.sql (dentro de Bases-De-Datos/).
 
-## Caso 3: Segundo Sistema (Gestión BD)
+## PARTE III: Segundo Sistema (Gestión BD)
 
 * Código Java: Carpeta gestionBD.
 * Base de Datos: Archivo BD_script.sql (dentro de Bases-De-Datos/).
